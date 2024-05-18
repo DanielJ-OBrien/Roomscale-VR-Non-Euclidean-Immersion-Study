@@ -1,4 +1,4 @@
-# Roomscale VR-Non Euclidian Immersion Study
+# Roomscale VR-Non Euclidean Immersion Study
 
 A copy of the program I used as an experiment in my dissertation.
 
