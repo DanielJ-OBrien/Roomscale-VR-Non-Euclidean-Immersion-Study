@@ -1,4 +1,5 @@
-# VRDisseration
+# Roomscale VR-Non Euclidian Immersion Study
+
 A copy of the program I used as an experiment in my dissertation.
 
 The purpose of my study was to measure how employing non-Euclidean geometric concepts to a roomscale VR level could influence the players immersion.
